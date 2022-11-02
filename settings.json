@@ -1,8 +1,13 @@
 {   
     "discordWebhookUrl": "https://discord.com/api/webhooks/1037355189834895360/_NnOvSr8_2icf55t7FrrCUT1XO161-pPZIXcnWq0pblwk4KDEkV2QE_5DutMqvlzyRxa",
+    "discordUserId": "@everyone",
     "links": [
-        "https://ozbongs.com.au/slx-grinder-v2-62mm-black.html",
-        "https://ozbongs.com.au/sovereignty-mini-grid-dome-fixed-360-min-acc.html"
-
+        "https://ozbongs.com.au/sovereignty-mini-grid-dome-fixed-360-min-acc.html",
+        "https://ozbongs.com.au/sovereignty-slide-full-accent-3.html",
+        "https://ozbongs.com.au/sovereignty-44-imperial-partial-accents.html",
+        "https://ozbongs.com.au/sovereignty-44-stemline-full-accent.html",
+        "https://ozbongs.com.au/sovereignty-stephen-c-sig-slide.html",
+        "https://ozbongs.com.au/sovereignty-pillar-natty-hollow-full-accents.html",
+        "https://ozbongs.com.au/sovereignty-60mm-grid-dome-inv4-part-acc.html"
     ]
 }
